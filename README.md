@@ -8,5 +8,5 @@
     <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true&layout=pie" /><br /-->
     <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true&layout=compact"/><br /-->
     <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true"/><br /-->
-    <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true"/><br /-->
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsansobhani&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_title=true&rank_icon=percentile" /><br />
