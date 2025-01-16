@@ -8,10 +8,4 @@
     <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true&layout=pie" /><br /-->
     <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true&layout=compact"/><br /-->
     <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsansobhni&count_private=true&include_all_commits=true"/><br /-->
-
-    <hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansobhni&show_icons=true&theme=radical)
-
-<hr>
 </p>
