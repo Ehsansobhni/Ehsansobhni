@@ -1,7 +1,5 @@
 ## Hello! I’m Ehsan Sobhani – welcome to my world of code and creativity!
 
-![Ehsan Sobhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsansobhni&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 <p align="center">
     <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsansobhni&count_private=true&include_all_commits=true&show_icons=true"/><br /-->
     <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsansobhni&count_private=true&include_all_commits=true&show_icons=true&theme=dark" /><br /-->
